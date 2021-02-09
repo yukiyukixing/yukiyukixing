@@ -1,6 +1,8 @@
 ### Hey there, I'm [XKHM](https://xkhm.net)!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-船到桥头自然直，All Will Be Good。
+恭喜挖到宝藏✔✔✔✔✔
+
+船到桥头自然直，All Will Be Good✔✔✔✔✔
 
 
 [![xkhm's github stats](https://github-readme-stats.vercel.app/api?username=yukiyukixing&theme=dark&show_icons=true&line_height=40)](https://github.com/yukiyukixing)
