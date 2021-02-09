@@ -1,1 +1,1 @@
-![](https://github-readme-stats.vercel.app/api?username=yukiyukixing&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=yukiyukixing)
