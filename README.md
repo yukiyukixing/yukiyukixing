@@ -9,6 +9,10 @@ Congratulations on digging the treasure✔✔✔✔✔
 
 船到桥头自然直，All Will Be Good✔✔✔✔✔
 
+📊 **This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yukiyukixing&hide_title=true&hide_border=true&langs_count=5)
+
 <details open>
  <summary> ✔✔ <b>XKHM</b>: </summary>
 <br>
