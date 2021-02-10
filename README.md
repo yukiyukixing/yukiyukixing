@@ -17,21 +17,24 @@ Congratulations on digging the treasure✔✔✔✔✔
   <img src = "https://github-readme-stats.vercel.app/api?username=yukiyukixing&show_icons=true&theme=gotham&hide_border=true&count_private=true">
 </p>
 
-<p align="center">
-📕 This week I spent my time on
-</p>
-
-<p align="center">
-  <img src = "https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=xkhm&hide_title=true&hide_border=true&langs_count=5">
-</p>
-
-<p align="center">
-⚡ Top language used in my repos
-</p>
-
-<div align="center">
-    <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukiyukixing&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+<div>
+  <p align="center">
+  📕 This week I spent my time on
+  </p>
+  <p align="center">
+    <img src = "https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=xkhm&hide_title=true&hide_border=true&langs_count=5">
+  </p>
 </div>
+
+<div>
+  <p align="center">
+  ⚡ Top language used in my repos
+  </p>
+  <div align="center">
+      <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukiyukixing&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  </div>
+</div>
+
 
 <h2>🚀 My Interest</h2>
 <p align="left">
