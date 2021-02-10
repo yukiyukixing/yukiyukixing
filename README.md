@@ -19,20 +19,20 @@ Congratulations on digging the treasure✔✔✔✔✔
 
 <div>
     <span>
-        <p align="center">
+        <span align="center">
         📕 This week I spent my time on
-        </p>
-        <p align="center">
+        </span>
+        <span align="center">
             <img src = "https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=xkhm&hide_title=true&hide_border=true&langs_count=5">
-        </p>
+        </span>
     </span>
     <span>
-        <p align="center">
+        <span align="center">
         ⚡ Top language used in my repos
-        </p>
-        <div align="center">
+        </span>
+        <span align="center">
             <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukiyukixing&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-        </div>
+        </span>
     </span>
 </div>
 
