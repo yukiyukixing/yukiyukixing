@@ -23,11 +23,11 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/yukiyukixing/yukiyukixing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukiyukixing&hide=c%2B%2B,c,html&theme=blue-green&bg_color=30,e96443,904e95&title_color=e7f116&count_private=true" alt="xkhm's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukiyukixing&hide=c%2B%2B,c,html&theme=great-gatsby&bg_color=30,e96443,904e95&title_color=e7f116&count_private=true" alt="xkhm's GitHub Stats" />
 </a>
 
 <a href="https://github.com/yukiyukixing/yukiyukixing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yukiyukixing&show_icons=true&line_height=33&count_private=true&theme=blue-green&bg_color=30,e96443,904e95&title_color=e7f116" alt="xkhm's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yukiyukixing&show_icons=true&line_height=33&count_private=true&theme=great-gatsby&bg_color=30,e96443,904e95&title_color=e7f116" alt="xkhm's GitHub Stats" />
 </a>
 
 ## 🏆 GitHub Trophies
@@ -38,15 +38,15 @@
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/yukiyukixing/Learn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukiyukixing&repo=Learn&show_icons=true&line_height=27&theme=blue-green&bg_color=30,e96443,904e95&title_color=e7f116" alt="Learn" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukiyukixing&repo=Learn&show_icons=true&line_height=27&theme=great-gatsby&bg_color=30,e96443,904e95&title_color=e7f116" alt="Learn" />
 </a>
 
 <a href="https://github1s.com/yukiyukixing/Bucket">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukiyukixing&repo=Bucket&show_icons=true&line_height=27&theme=blue-green&bg_color=30,e96443,904e95&title_color=e7f116" alt="Bucket" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukiyukixing&repo=Bucket&show_icons=true&line_height=27&theme=great-gatsby&bg_color=30,e96443,904e95&title_color=e7f116" alt="Bucket" />
 </a>
 
 ### 📕   This week I spent my time on:
 
-[![yukiyukixing's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xkhm&line_height=27&theme=blue-green&bg_color=30,e96443,904e95&title_color=e7f116)](https://github.com/anuraghazra/github-readme-stats)
+[![yukiyukixing's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xkhm&line_height=27&theme=great-gatsby&bg_color=30,e96443,904e95&title_color=e7f116)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="right"><img src="https://visitor-badge.glitch.me/badge?page_id=yukiyukixing.yukiyukixing" alt="visitors"></p>
