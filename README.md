@@ -38,11 +38,11 @@
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/yukiyukixing/Learn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukiyukixing&repo=Learn&show_icons=true&line_height=27&theme=monokai" alt="Learn" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukiyukixing&repo=Learn&show_icons=true&line_height=27&theme=monokai&show_owner=yukiyukixing" alt="Learn" />
 </a>
 
 <a href="https://github1s.com/yukiyukixing/Bucket">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukiyukixing&repo=Bucket&show_icons=true&line_height=27&theme=monokai" alt="Bucket" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukiyukixing&repo=Bucket&show_icons=true&line_height=27&theme=monokai&show_owner=yukiyukixing" alt="Bucket" />
 </a>
 
 ### 📕   This week I spent my time on:
