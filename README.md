@@ -27,6 +27,18 @@ Congratulations on digging the treasure✔✔✔✔✔
   <img src = "https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=xkhm&hide_title=true&hide_border=true&langs_count=5">
 </p>
 
+<h2>🚀 My Interest</h2>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
+  <img src="https://img.icons8.com/color/48/000000/golang.png"  alt="Go" width="25" height="25" >
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
+</p>
+
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=yukiyukixing.yukiyukixing" alt="visitors"></p>
 
 
