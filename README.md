@@ -44,7 +44,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukiyukixing&repo=Bucket&show_icons=true&line_height=27&theme=great-gatsby&bg_color=30,e96443,904e95&title_color=e7f116" alt="Bucket" />
 </a>
 
-### 📕   This week I spent my time on:
+### 📕   This week I spent my time on
 
 [![yukiyukixing's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xkhm&line_height=27&theme=great-gatsby&bg_color=30,e96443,904e95&title_color=e7f116)](https://github.com/anuraghazra/github-readme-stats)
 
