@@ -18,22 +18,14 @@ Congratulations on digging the treasure✔✔✔✔✔
 </p>
 
 <div>
-    <span>
-        <span align="center">
-        📕 This week I spent my time on
-        </span>
-        <span align="center">
-            <img src = "https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=xkhm&hide_title=true&hide_border=true&langs_count=5">
-        </span>
-    </span>
-    <span>
-        <span align="center">
-        ⚡ Top language used in my repos
-        </span>
-        <span align="center">
-            <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukiyukixing&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-        </span>
-    </span>
+    <p align="center">
+    📕 This week I spent my time on
+    </p>
+    <img src = "https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=xkhm&hide_title=true&hide_border=true&langs_count=5">
+    <p align="center">
+    ⚡ Top language used in my repos
+    </p>
+    <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukiyukixing&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
 </div>
 
 
