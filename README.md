@@ -38,15 +38,15 @@
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/yukiyukixing/Learn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukiyukixing&repo=Learn&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Learn" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukiyukixing&repo=Learn&show_icons=true&line_height=27&theme=monokai" alt="Learn" />
 </a>
 
 <a href="https://github1s.com/yukiyukixing/Bucket">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukiyukixing&repo=Bucket&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Bucket" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukiyukixing&repo=Bucket&show_icons=true&line_height=27&theme=monokai" alt="Bucket" />
 </a>
 
 ### 📕   This week I spent my time on:
 
-[![yukiyukixing's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xkhm&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)](https://github.com/anuraghazra/github-readme-stats)
+[![yukiyukixing's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xkhm&line_height=27&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=yukiyukixing.yukiyukixing" alt="visitors"></p>
+<p align="right"><img src="https://visitor-badge.glitch.me/badge?page_id=yukiyukixing.yukiyukixing" alt="visitors"></p>
