@@ -27,6 +27,10 @@ Congratulations on digging the treasure✔✔✔✔✔
   <img src = "https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=xkhm&hide_title=true&hide_border=true&langs_count=5">
 </p>
 
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukiyukixing&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+</div>
+
 <h2>🚀 My Interest</h2>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
