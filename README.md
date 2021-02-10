@@ -43,7 +43,7 @@ Congratulations on digging the treasure✔✔✔✔✔
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukiyukixing&repo=Learn&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Learn" />
 </a>
 
-<a href="https://github.com/yukiyukixing/Bucket">
+<a href="https://github1s.com/yukiyukixing/Bucket">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukiyukixing&repo=Bucket&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Bucket" />
 </a>
 
