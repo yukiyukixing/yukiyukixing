@@ -9,30 +9,6 @@ Congratulations on digging the treasure✔✔✔✔✔
 
 船到桥头自然直，All Will Be Good✔✔✔✔✔
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=yukiyukixing&column=4&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
-
-<p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=yukiyukixing&show_icons=true&theme=gotham&hide_border=true&count_private=true">
-</p>
-
-<div>
-    <p align="center">
-    📕 This week I spent my time on
-    </p>
-    <p align="center">
-        <img src = "https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=xkhm&hide_title=true&hide_border=true&langs_count=5">
-    </p>
-    <p align="center">
-    ⚡ Top language used in my repos
-    </p>
-    <p align="center">
-        <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukiyukixing&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-    </p>
-</div>
-
-
 <h2>🚀 My Interest</h2>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
@@ -47,11 +23,34 @@ Congratulations on digging the treasure✔✔✔✔✔
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" />
 </p>
 
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/yukiyukixing/yukiyukixing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukiyukixing&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="xkhm's GitHub Stats" />
+</a>
+
+<a href="https://github.com/yukiyukixing/yukiyukixing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yukiyukixing&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="xkhm's GitHub Stats" />
+</a>
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yukiyukixing&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/yukiyukixing/Learn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukiyukixing&repo=Learn&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Learn" />
+</a>
+
+<a href="https://github.com/yukiyukixing/Bucket">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukiyukixing&repo=Bucket&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Bucket" />
+</a>
+
+### 📕📕   This week I spent my time on:
+
+[![yukiyukixing's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yukiyukixing&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)](https://github.com/anuraghazra/github-readme-stats)
+
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=yukiyukixing.yukiyukixing" alt="visitors"></p>
-
-
-
-
-
-
-
