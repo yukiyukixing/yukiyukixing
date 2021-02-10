@@ -23,11 +23,11 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/yukiyukixing/yukiyukixing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukiyukixing&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="xkhm's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukiyukixing&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116&count_private=true" alt="xkhm's GitHub Stats" />
 </a>
 
 <a href="https://github.com/yukiyukixing/yukiyukixing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yukiyukixing&show_icons=true&line_height=33&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="xkhm's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yukiyukixing&show_icons=true&line_height=33&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116&count_private=true" alt="xkhm's GitHub Stats" />
 </a>
 
 ## 🏆 GitHub Trophies
