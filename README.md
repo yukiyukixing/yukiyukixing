@@ -16,7 +16,7 @@ Congratulations on digging the treasure✔✔✔✔✔
 </p>
 
 <p align="center">
-  <img src = "https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=yukiyukixing">
+  <img src = "https://bad-apple-github-readme.vercel.app/api?show_bg=2&username=yukiyukixing">
 </p>
 
 <p align="center">
