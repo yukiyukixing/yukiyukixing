@@ -5,7 +5,7 @@
 - ⚡ JavaScript / Node.js / Go.
 - 📫 Email me at: [im.xkhm@gmail.com](mailto:im.xkhm@gmail.com)
 
-恭喜挖到宝藏✔✔✔✔✔
+Congratulations on digging the treasure✔✔✔✔✔
 
 船到桥头自然直，All Will Be Good✔✔✔✔✔
 
