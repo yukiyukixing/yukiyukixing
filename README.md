@@ -49,6 +49,6 @@
 
 [![yukiyukixing's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xkhm&line_height=27&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yukiyukixing&repo=Learn)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yukiyukixing&repo=Learn)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="right"><img src="https://visitor-badge.glitch.me/badge?page_id=yukiyukixing.yukiyukixing" alt="visitors"></p>
