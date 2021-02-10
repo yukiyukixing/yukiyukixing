@@ -13,12 +13,7 @@ Congratulations on digging the treasure✔✔✔✔✔
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=xkhm&hide_title=true&hide_border=true&langs_count=5)
 
-<details open>
- <summary> ✔✔ <b>XKHM</b>: </summary>
-<br>
-<p align = "center">
+<p>
   <img src = "https://github-readme-stats.vercel.app/api?username=yukiyukixing&show_icons=true&theme=calm&line_height=33&hide_border=true&count_private=true">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yukiyukixing&theme=calm&hide_border=true">
 </p>
-</details>
 
