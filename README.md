@@ -12,9 +12,11 @@ Congratulations on digging the treasure✔✔✔✔✔
 <h2>🚀 My Interest</h2>
 <p align="left">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/go.svg" alt="go" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
