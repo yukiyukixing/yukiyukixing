@@ -3,8 +3,6 @@
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.yukiyukixing.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dyukiyukixing&style=flat-square)](https://github.com/yukiyukixing)
 [![Gmail Badge](https://img.shields.io/badge/-im.xkhm@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:im.xkhm@gmail.com)](mailto:im.xkhm@gmail.com)
 
-
-- ⚡ JavaScript / Node.js / Go.
 - 📫 Email me at: [im.xkhm@gmail.com](mailto:im.xkhm@gmail.com)
 
 Congratulations on digging the treasure✔✔✔✔✔
@@ -27,8 +25,12 @@ Congratulations on digging the treasure✔✔✔✔✔
   <img src = "https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=xkhm&hide_title=true&hide_border=true&langs_count=5">
 </p>
 
+<p align="center">
+⚡ Top language used in my repos
+</p>
+
 <div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukiyukixing&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+    <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukiyukixing&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
 </div>
 
 <h2>🚀 My Interest</h2>
