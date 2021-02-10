@@ -12,7 +12,7 @@ Congratulations on digging the treasure✔✔✔✔✔
 船到桥头自然直，All Will Be Good✔✔✔✔✔
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=yukiyukixing&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=yukiyukixing&column=4&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 <p align="center">
