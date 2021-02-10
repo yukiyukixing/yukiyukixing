@@ -11,7 +11,9 @@ Congratulations on digging the treasure✔✔✔✔✔
 
 船到桥头自然直，All Will Be Good✔✔✔✔✔
 
+<img alig src="https://github-profile-trophy.vercel.app/?username=yukiyukixin&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 <img src = "https://github-readme-stats.vercel.app/api?username=yukiyukixing&show_icons=true&theme=calm&line_height=33&hide_border=true&count_private=true">
+
 
 <details open>
   <summary>📊 This week I spent my time on：</summary>
