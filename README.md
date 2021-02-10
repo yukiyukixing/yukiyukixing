@@ -14,15 +14,7 @@ Congratulations on digging the treasure✔✔✔✔✔
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
   <img src = "https://github-readme-stats.vercel.app/api?username=yukiyukixing&show_icons=true&theme=calm&line_height=33&hide_border=true&count_private=true">
-  <details open>
-  <summary>📊 This week I spent my time on：</summary>
-  
-  ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=xkhm&hide_title=true&hide_border=true&langs_count=5)
-</details>
-</p>
-
-<p align="center">
-  📕 This week I spent my time on
+  <p>📕 This week I spent my time on</p>
   <img src = "https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=xkhm&hide_title=true&hide_border=true&langs_count=5">
 </p>
 
