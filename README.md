@@ -21,7 +21,6 @@ Congratulations on digging the treasure✔✔✔✔✔
 </p>
 
 <p align="center">
-  <span>📕 This week I spent my time on</span>
   <img src = "https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=xkhm&hide_title=true&hide_border=true&langs_count=5">
 </p>
 
