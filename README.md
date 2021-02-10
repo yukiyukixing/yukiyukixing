@@ -27,7 +27,7 @@
 </a>
 
 <a href="https://github.com/yukiyukixing/yukiyukixing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yukiyukixing&show_icons=true&line_height=33&count_private=true&theme=blue-green&bg_color=30,e96443,904e95" alt="xkhm's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yukiyukixing&show_icons=true&line_height=33&count_private=true&theme=great-gatsby&bg_color=30,e96443,904e95" alt="xkhm's GitHub Stats" />
 </a>
 
 ## 🏆 GitHub Trophies
