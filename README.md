@@ -22,7 +22,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/yukiyukixing/yukiyukixing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukiyukixing&hide=c%2B%2B,c,html&theme=great-gatsby&bg_color=30,e96443,904e95&title_color=e7f116&count_private=true" alt="xkhm's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukiyukixing&hide=c%2B%2B,c,html&theme=great-gatsby&bg_color=30,e96443,904e95&title_color=e7f116&count_private=true&langs_count=4" alt="xkhm's GitHub Stats" />
 </a>
 
 <a href="https://github.com/yukiyukixing/yukiyukixing">
