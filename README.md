@@ -24,7 +24,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukiyukixing&langs_count=4&theme=great-gatsby&bg_color=30,e96443,904e95&title_color=e7f116&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/yukiyukixing/yukiyukixing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukiyukixing&langs_count=4&hide=c%2B%2B,c,html&theme=great-gatsby&bg_color=30,e96443,904e95&title_color=e7f116&count_private=true" alt="xkhm's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukiyukixing&langs_count=4&theme=great-gatsby&bg_color=30,e96443,904e95&title_color=e7f116&count_private=true" alt="xkhm's GitHub Stats" />
 </a>
 
 <a href="https://github.com/yukiyukixing/yukiyukixing">
