@@ -7,6 +7,7 @@
 - 🧡 船到桥头自然直，All Will Be Good✔✔✔✔✔
 - 🧡 进一步有一步的欢喜，怕什么真理无穷✔✔✔✔✔
 - 🧡 工程化、组件化、可视化✔✔✔✔✔
+- 🧡 永远相信美好的事情即将发生，Always believe that good things are about to happen✔✔✔✔✔
 
 <h2>🚀 My Interest</h2>
 <p align="left">
