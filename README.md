@@ -44,7 +44,7 @@
 </a>
 
 <a href="https://github1s.com/yukiyukixing/Bucket">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukiyukixing&repo=Bucket&show_icons=true&line_height=27&theme=great-gatsby&bg_color=30,e96443,904e95&title_color=e7f116" alt="Bucket" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukiyukixing&repo=Bucket&show_icons=true&line_height=27&bg_color=30,e96443,904e95&title_color=e7f116" alt="Bucket" />
 </a>
 
 ### 📕   This week I spent my time on
