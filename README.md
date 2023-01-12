@@ -37,7 +37,7 @@
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/yukiyukixing/Learn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukiyukixing&repo=Learn&show_icons=true&line_height=27&theme=great-gatsby&bg_color=30,e96443,904e95&title_color=e7f116" alt="Learn" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukiyukixing&repo=Learn&show_icons=true&line_height=27&bg_color=30,e96443,904e95&title_color=e7f116" alt="Learn" />
 </a>
 
 <a href="https://github1s.com/yukiyukixing/Bucket">
